@@ -11,7 +11,7 @@ function CookingMode() {
   const [timeLeft, setTimeLeft] = useState(null);
 
   useEffect(() => {
-    axios.get(`http://localhost:8000/recipes/${id}`).then(res => {
+    axios.get(`https://recipe-find-2.onrender.com/recipes/${id}`).then(res => {
       setRecipe(res.data);
     });
   }, [id]);
