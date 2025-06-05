@@ -9,7 +9,7 @@ function SavedPlans() {
   const navigate = useNavigate();
 
   useEffect(() => {
-    axios.get('http://localhost:8000/api/mealplans')
+    axios.get('https://recipe-find-2.onrender.com/api/mealplans')
       .then(res => setPlans(res.data));
   }, []);
 
@@ -27,7 +27,7 @@ function SavedPlans() {
 
   const handleDeleteConfirmed = async () => {
     try {
-      await axios.delete(`http://localhost:8000/api/mealplans/${confirmDeleteId}`);
+      await axios.delete(`https://recipe-find-2.onrender.com/api/mealplans/${confirmDeleteId}`);
       setPlans(plans.filter(plan => plan._id !== confirmDeleteId));
       setConfirmDeleteId(null);
     } catch (error) {
