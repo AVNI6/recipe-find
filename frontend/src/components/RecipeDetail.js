@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { useParams, useNavigate } from 'react-router-dom';
+import { useParams, useNavigate, Link} from 'react-router-dom';
 import axios from 'axios';
 import './RecipeDetail.css';
 
@@ -9,18 +9,20 @@ function RecipeDetail() {
   const [showList, setShowList] = useState(false);
   const navigate = useNavigate(); 
 
-  useEffect(() => {
-    axios.get(`http://localhost:8000/recipes/${id}`).then(res => {
-      setRecipe(res.data);
-    });
-  }, [id]);
+
+useEffect(() => {
+  axios.get(`http://localhost:8000/recipes/${id}`).then(res => {
+    setRecipe(res.data);
+  }).catch(err => console.error("Error loading recipe:", err));
+}, [id]);
+
 
   if (!recipe) return <p>Loading...</p>;
 
   return (
     <div className="recipe-detail">
       <div className="recipe-detail-header">
-        <button className="back-btn" onClick={() => navigate(-1)}>Back</button> {/* Back button */}
+        <button className="back-btn" onClick={() => navigate(-1)}>Back</button> 
         <h2>{recipe.name}</h2>
         <button className="shopping-btn" onClick={() => setShowList(true)}>🛒 Shopping List</button>
       </div>
@@ -50,6 +52,10 @@ function RecipeDetail() {
       <ol>
         {recipe.instructions.map((step, index) => <li key={index}>{step}</li>)}
       </ol>
+      <Link to={`/cook/${recipe._id}`}>
+      <button className="shopping-btn">👨‍🍳 Start Cooking Mode</button>
+      </Link>
+      
     </div>
   );
 }

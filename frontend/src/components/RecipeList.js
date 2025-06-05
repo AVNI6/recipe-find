@@ -39,7 +39,7 @@ function RecipeList() {
 
   return (
     <div className="recipe-container">
-      <header>
+      {/* <header>
         <h1>Recipe Finder</h1>
         <input
           type="text"
@@ -47,7 +47,23 @@ function RecipeList() {
           placeholder="Search recipes..."
           onChange={(e) => setSearch(e.target.value)}
         />
-      </header>
+      </header> */}
+
+      <header>
+  <h1>Recipe Finder</h1>
+  <div className="search-container">
+    <input
+      type="text"
+      id="searchInput"
+      placeholder="Search recipes..."
+      value={search} 
+      onChange={(e) => setSearch(e.target.value)}
+    />
+    {search && (
+      <button className="clear-btn" onClick={() => setSearch('')}>✖</button>
+    )}
+  </div>
+</header>
       
       <div className="filters">
         <div className="filter-item">
@@ -81,15 +97,19 @@ function RecipeList() {
           </select>
           {timeFilter && <span className="clear-btn" onClick={() => clearFilter(setTimeFilter)}>❌</span>}
         </div>
+        
+          <Link to="/planner"><button className="planner-button">Plan Your Meals</button> </Link>
+          <Link to="/saved-plans"><button className="planner-button">View Saved Plans</button> </Link>
+
       </div>
 
       <div className="card-container" id="recipeContainer">
         {recipes.map(recipe => (
-          <div key={recipe.id} className="card">
+          <div key={recipe._id} className="card">
             <img src={recipe.image} alt={recipe.name} />
             <h3>{recipe.name}</h3>
             <p>{recipe.description.slice(0, 60)}...</p>
-            <Link to={`/recipe/${recipe.id}`}>View Details</Link>
+            <Link to={`/recipe/${recipe._id}`}>View Details</Link>
           </div>
         ))}
       </div>

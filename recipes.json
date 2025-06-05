@@ -1,15 +1,14 @@
-{
-  "recipes": [
+[
   {
     "name": "Khandvi",
     "description": "Thin, rolled, and tempered gram flour snacks, a staple in Gujarati cuisine.",
     "instructions": [
-      "In a large bowl, whisk together **1 cup besan (gram flour)**, **3 cups curd (yogurt)**, **1 cup water**, **1/2 teaspoon turmeric powder**, and **salt to taste** until a smooth, lump-free batter is formed.",
+      "In a large bowl, whisk together 1 cup besan (gram flour), 3 cups curd (yogurt), 1 cup water, 1/2 teaspoon turmeric powder, and salt to taste until a smooth, lump-free batter is formed.",
       "Pour the batter into a heavy-bottomed pan and cook on medium-low heat, stirring continuously with a whisk or spatula. It's crucial to stir constantly to prevent lumps and sticking. Continue cooking until the mixture thickens considerably and starts leaving the sides of the pan (about 8-10 minutes).",
       "Immediately pour thin layers of the hot mixture onto greased plates or a clean kitchen counter. Use a spatula to spread it as thinly and evenly as possible. Let it cool for 5-7 minutes until set.",
       "Once cooled and set, cut the spread batter into strips about 1 to 1.5 inches wide. Carefully roll each strip tightly from one end to the other.",
-      "For tempering: In a small pan, heat **2 tablespoons oil**. Add **1 teaspoon mustard seeds** and let them splutter. Then add **a pinch of asafoetida (hing)** and **a few curry leaves**. You can also add **slit green chilies** if you like a little spice.",
-      "Pour the hot tempering evenly over the rolled khandvi. Garnish with fresh **chopped coriander leaves** and **grated coconut** (optional). Serve immediately."
+      "For tempering: In a small pan, heat 2 tablespoons oil. Add 1 teaspoon mustard seeds and let them splutter. Then add a pinch of asafoetida (hing) and a few curry leaves. You can also add slit green chilies if you like a little spice.",
+      "Pour the hot tempering evenly over the rolled khandvi. Garnish with fresh chopped coriander leaves and grated coconut (optional). Serve immediately."
     ],
     "category": "Snack",
     "ingredients": ["Besan", "Curd", "Water", "Turmeric", "Salt", "Mustard Seeds", "Curry Leaves", "Oil", "Asafoetida", "Green Chilies", "Coriander", "Grated Coconut"],
@@ -21,13 +20,13 @@
     "name": "Handvo",
     "description": "A savory cake made with mixed lentils and rice, flavored with spices.",
     "instructions": [
-      "Combine **1 cup rice**, **1/2 cup chana dal (split chickpeas)**, **1/4 cup urad dal (split black lentils)**, and **1/4 cup toor dal (split pigeon peas)**. Wash them thoroughly and soak in enough water overnight (or for at least 6-8 hours).",
-      "Drain the soaked rice and dals. Grind them into a thick, coarse batter using minimal water. The consistency should be like idli batter. Add **1 cup sour curd**, **salt to taste**, **1 teaspoon ginger paste**, and **1 teaspoon green chili paste**. Mix well and let it ferment in a warm place for 4-6 hours, or until it shows signs of fermentation (slight bubbles).",
-      "Just before preparing, add **1 cup grated bottle gourd (doodhi)**, **1/2 teaspoon turmeric powder**, **1 teaspoon red chili powder**, **1/2 teaspoon sugar**, and **a pinch of baking soda (or fruit salt like Eno)** to the fermented batter. Mix gently.",
-      "Heat **3 tablespoons oil** in a deep pan or Handvo cooker (traditionally cooked in a pressure cooker without the whistle or a deep non-stick pan). Add **1 teaspoon mustard seeds**, **1 teaspoon sesame seeds**, **a pinch of asafoetida**, and **a few curry leaves**. Let them splutter.",
+      "Combine 1 cup rice, 1/2 cup chana dal (split chickpeas), 1/4 cup urad dal (split black lentils), and 1/4 cup toor dal (split pigeon peas). Wash them thoroughly and soak in enough water overnight (or for at least 6-8 hours).",
+      "Drain the soaked rice and dals. Grind them into a thick, coarse batter using minimal water. The consistency should be like idli batter. Add 1 cup sour curd, salt to taste, 1 teaspoon ginger paste, and 1 teaspoon green chili paste. Mix well and let it ferment in a warm place for 4-6 hours, or until it shows signs of fermentation (slight bubbles).",
+      "Just before preparing, add 1 cup grated bottle gourd (doodhi), 1/2 teaspoon turmeric powder, 1 teaspoon red chili powder, 1/2 teaspoon sugar, and a pinch of baking soda (or fruit salt like Eno) to the fermented batter. Mix gently.",
+      "Heat 3 tablespoons oil in a deep pan or Handvo cooker (traditionally cooked in a pressure cooker without the whistle or a deep non-stick pan). Add 1 teaspoon mustard seeds, 1 teaspoon sesame seeds, a pinch of asafoetida, and a few curry leaves. Let them splutter.",
       "Pour the prepared batter into the tempered oil, spreading it evenly. You can sprinkle some more sesame seeds on top. Cover and cook on a low flame for 25-30 minutes, or until the bottom is golden brown and crispy.",
       "Carefully flip the handvo (you can use a plate to assist) and cook the other side for another 15-20 minutes, or until cooked through and golden. Alternatively, you can bake it in a preheated oven at 180°C (350°F) for 40-50 minutes.",
-      "Cut into wedges and serve hot with **green chutney**."
+      "Cut into wedges and serve hot with green chutney."
     ],
     "category": "Snack",
     "ingredients": ["Rice", "Mixed Lentils", "Curd", "Bottle Gourd", "Green Chili", "Ginger"],
@@ -39,12 +38,12 @@
     "name": "Ghughra (Sweet Gujiya)",
     "description": "A crispy fried pastry stuffed with a sweet coconut and dry fruit filling.",
     "instructions": [
-      "For the outer shell: In a bowl, mix **2 cups refined flour (maida)** with **4 tablespoons ghee (clarified butter)**. Rub the ghee into the flour until it resembles breadcrumbs. Gradually add **cold water** to knead into a firm dough. Cover with a damp cloth and let it rest for 15-20 minutes.",
-      "For the filling: In a pan, lightly roast **1 cup grated fresh or desiccated coconut** until fragrant. Add **1/2 cup powdered sugar**, **1/2 teaspoon cardamom powder**, and **1/4 cup finely chopped dry fruits** (like almonds, cashews, raisins). Mix well and let it cool completely.",
+      "For the outer shell: In a bowl, mix 2 cups refined flour (maida) with 4 tablespoons ghee (clarified butter). Rub the ghee into the flour until it resembles breadcrumbs. Gradually add cold water to knead into a firm dough. Cover with a damp cloth and let it rest for 15-20 minutes.",
+      "For the filling: In a pan, lightly roast 1 cup grated fresh or desiccated coconut until fragrant. Add 1/2 cup powdered sugar, 1/2 teaspoon cardamom powder, and 1/4 cup finely chopped dry fruits (like almonds, cashews, raisins). Mix well and let it cool completely.",
       "Divide the dough into small, equal portions. Roll each portion into a thin circle (about 3-4 inches in diameter).",
       "Place a spoonful of the coconut filling on one half of the rolled circle, leaving the edges clear.",
       "Lightly dampen the edges with water. Fold the other half of the circle over the filling to form a crescent shape. Press the edges firmly to seal. You can use a ghughra mould or crimp the edges with a fork for a decorative finish.",
-      "Heat **oil** for deep frying in a kadhai (wok) over medium heat. Once hot, carefully slide in a few ghughras, making sure not to overcrowd the pan.",
+      "Heat oil for deep frying in a kadhai (wok) over medium heat. Once hot, carefully slide in a few ghughras, making sure not to overcrowd the pan.",
       "Fry until they turn golden brown and crispy on both sides. Remove with a slotted spoon and drain excess oil on absorbent paper. Allow them to cool completely before storing in an airtight container."
     ],
     "category": "Dessert",
@@ -57,12 +56,12 @@
     "name": "Shrikhand",
     "description": "A creamy dessert made with strained yogurt and flavored with saffron and cardamom.",
     "instructions": [
-      "Take **4 cups fresh curd (yogurt)**. Place a large sieve over a bowl and line the sieve with a clean muslin cloth or cheesecloth. Pour the curd into the cloth. Gather the edges of the cloth and tie it to form a potli (pouch).",
+      "Take 4 cups fresh curd (yogurt). Place a large sieve over a bowl and line the sieve with a clean muslin cloth or cheesecloth. Pour the curd into the cloth. Gather the edges of the cloth and tie it to form a potli (pouch).",
       "Hang this potli over a bowl in the refrigerator for 4-5 hours (or overnight) to drain all the excess whey (water). The thick, creamy substance left is called 'chakka' (hung curd).",
-      "Transfer the chakka to a mixing bowl. Add **1/2 to 3/4 cup powdered sugar** (adjust to your sweetness preference), **1/2 teaspoon cardamom powder**, and **a pinch of saffron strands** (soaked in 1 tablespoon warm milk for 10 minutes) to the chakka.",
+      "Transfer the chakka to a mixing bowl. Add 1/2 to 3/4 cup powdered sugar (adjust to your sweetness preference), 1/2 teaspoon cardamom powder, and a pinch of saffron strands (soaked in 1 tablespoon warm milk for 10 minutes) to the chakka.",
       "Whisk everything together thoroughly until the mixture is smooth, creamy, and lump-free. You can use a hand whisk or an electric beater. If you prefer a very smooth texture, you can pass it through a sieve.",
       "Chill the shrikhand in the refrigerator for at least 1-2 hours before serving to allow the flavors to meld and for it to firm up.",
-      "Garnish with sliced **almonds** and **pistachios** before serving."
+      "Garnish with sliced almonds and pistachios before serving."
     ],
     "category": "Dessert",
     "ingredients": ["Curd", "Sugar", "Saffron", "Cardamom", "Almonds", "Pistachios", "Milk"],
@@ -74,11 +73,11 @@
     "name": "Khichu",
     "description": "A soft, steamed rice flour dish, often enjoyed as a snack.",
     "instructions": [
-      "In a heavy-bottomed pan, bring **2 cups water** to a boil. Add **1 teaspoon cumin seeds (jeera)**, **1-2 slit green chilies** (adjust to spice preference), **1/2 teaspoon asafoetida (hing)**, and **salt to taste**.",
-      "Once the water is boiling rapidly, reduce the flame to low. Gradually add **1 cup rice flour** in a continuous stream while stirring vigorously with a wooden spoon or whisk to prevent lumps. Continue stirring until all the flour is incorporated and the mixture starts to thicken.",
+      "In a heavy-bottomed pan, bring 2 cups water to a boil. Add 1 teaspoon cumin seeds (jeera), 1-2 slit green chilies (adjust to spice preference), 1/2 teaspoon asafoetida (hing), and salt to taste.",
+      "Once the water is boiling rapidly, reduce the flame to low. Gradually add 1 cup rice flour in a continuous stream while stirring vigorously with a wooden spoon or whisk to prevent lumps. Continue stirring until all the flour is incorporated and the mixture starts to thicken.",
       "Cover the pan and let it cook on very low heat for 5-7 minutes, allowing the rice flour to steam and become soft. Stir occasionally to ensure even cooking and prevent sticking.",
       "Once cooked, the khichu will be soft, sticky, and well-combined. Turn off the heat.",
-      "Serve hot in a bowl, drizzled generously with **sesame oil** or **groundnut oil**. You can also sprinkle some **roasted cumin powder** and a pinch of **red chili powder** for extra flavor."
+      "Serve hot in a bowl, drizzled generously with sesame oil or groundnut oil. You can also sprinkle some roasted cumin powder and a pinch of red chili powder for extra flavor."
     ],
     "category": "Snack",
     "ingredients": ["Rice Flour", "Water", "Cumin Seeds", "Green Chili", "Salt", "Asafoetida", "Sesame Oil"],
@@ -90,13 +89,13 @@
     "name": "Dhokla",
     "description": "A savory steamed cake made from fermented rice and chickpea flour batter.",
     "instructions": [
-      "For the batter: In a large bowl, combine **1 cup rice flour** and **1/2 cup chickpea flour (besan)**. Gradually add **1.5 cups sour curd (yogurt)** and **1/2 cup water**, whisking continuously to form a smooth, lump-free batter. The consistency should be thick but pourable. Add **1 teaspoon ginger-chili paste**, **1/2 teaspoon turmeric powder**, and **salt to taste**. Mix well. Cover and let the batter ferment in a warm place for 6-8 hours or overnight.",
+      "For the batter: In a large bowl, combine 1 cup rice flour and 1/2 cup chickpea flour (besan). Gradually add 1.5 cups sour curd (yogurt) and 1/2 cup water, whisking continuously to form a smooth, lump-free batter. The consistency should be thick but pourable. Add 1 teaspoon ginger-chili paste, 1/2 teaspoon turmeric powder, and salt to taste. Mix well. Cover and let the batter ferment in a warm place for 6-8 hours or overnight.",
       "Prepare the steamer: Grease a dhokla plate or a shallow baking tin with oil. Bring water to a boil in a steamer.",
-      "Just before steaming: Add **1 teaspoon Eno (fruit salt)** or **1/2 teaspoon baking soda** to the fermented batter. Pour 1 tablespoon of water over it to activate. Gently mix until bubbles form. Do not overmix.",
+      "Just before steaming: Add 1 teaspoon Eno (fruit salt) or 1/2 teaspoon baking soda to the fermented batter. Pour 1 tablespoon of water over it to activate. Gently mix until bubbles form. Do not overmix.",
       "Immediately pour the batter into the greased dhokla plate. Place it in the hot steamer. Cover and steam for 15-20 minutes, or until a knife inserted into the center comes out clean.",
       "Remove from the steamer and let it cool slightly. Cut into squares or diamonds.",
-      "For tempering: In a small pan, heat **2 tablespoons oil**. Add **1 teaspoon mustard seeds** and let them splutter. Then add **1 teaspoon sesame seeds**, **a pinch of asafoetida (hing)**, and **a few curry leaves**. Add **2-3 slit green chilies** and sauté for a minute. Pour **1/4 cup water** and **1 teaspoon sugar** into the tempering and bring it to a boil. Turn off the heat.",
-      "Pour the hot tempering evenly over the cut dhokla pieces. Garnish with fresh **chopped coriander leaves** and **grated coconut** (optional). Serve hot with green chutney."
+      "For tempering: In a small pan, heat 2 tablespoons oil. Add 1 teaspoon mustard seeds and let them splutter. Then add 1 teaspoon sesame seeds, a pinch of asafoetida (hing), and a few curry leaves. Add 2-3 slit green chilies and sauté for a minute. Pour 1/4 cup water and 1 teaspoon sugar into the tempering and bring it to a boil. Turn off the heat.",
+      "Pour the hot tempering evenly over the cut dhokla pieces. Garnish with fresh chopped coriander leaves and grated coconut (optional). Serve hot with green chutney."
     ],
     "category": "Snack",
     "ingredients": ["Rice Flour", "Chickpea Flour (Besan)", "Curd", "Water", "Ginger-Chili Paste", "Mustard Seeds", "Curry Leaves"],
@@ -108,13 +107,13 @@
     "name": "Sev Tameta Nu Shaak",
     "description": "A tangy and spicy curry made with tomatoes and topped with crispy sev.",
     "instructions": [
-      "In a kadhai or pan, heat **2 tablespoons oil**. Add **1 teaspoon mustard seeds** and let them splutter. Add **1 teaspoon cumin seeds** and let them crackle. Add **a pinch of asafoetida (hing)** and **a few curry leaves**.",
-      "Add **2 large onions** (finely chopped, optional, can be skipped for Jain version) and sauté until translucent. Then add **1 tablespoon ginger-garlic paste** (or finely chopped ginger and garlic) and sauté until fragrant.",
-      "Add **3-4 large tomatoes** (finely chopped or pureed). Cook on medium heat, stirring occasionally, until the tomatoes soften and the oil starts separating (about 8-10 minutes).",
-      "Add powdered spices: **1 teaspoon red chili powder**, **1.5 teaspoons coriander powder**, **1/2 teaspoon turmeric powder**, and **salt to taste**. Mix well and cook for 2 minutes.",
-      "Add **1.5 to 2 cups water** (adjust to desired gravy consistency). Bring the curry to a boil, then reduce heat and simmer for 5-7 minutes, allowing the flavors to meld. Add **1 tablespoon jaggery (gur)** or **sugar** for a sweet and sour taste.",
-      "Just before serving, turn off the heat. Pour the hot shaak into a serving bowl. Garnish generously with **sev (crispy chickpea noodles)** and fresh **chopped coriander leaves**.",
-      "Serve hot with **rotis**, **parathas**, or **puri**."
+      "In a kadhai or pan, heat 2 tablespoons oil. Add 1 teaspoon mustard seeds and let them splutter. Add 1 teaspoon cumin seeds and let them crackle. Add a pinch of asafoetida (hing) and a few curry leaves.",
+      "Add 2 large onions (finely chopped, optional, can be skipped for Jain version) and sauté until translucent. Then add 1 tablespoon ginger-garlic paste (or finely chopped ginger and garlic) and sauté until fragrant.",
+      "Add 3-4 large tomatoes (finely chopped or pureed). Cook on medium heat, stirring occasionally, until the tomatoes soften and the oil starts separating (about 8-10 minutes).",
+      "Add powdered spices: 1 teaspoon red chili powder, 1.5 teaspoons coriander powder, 1/2 teaspoon turmeric powder, and salt to taste. Mix well and cook for 2 minutes.",
+      "Add 1.5 to 2 cups water (adjust to desired gravy consistency). Bring the curry to a boil, then reduce heat and simmer for 5-7 minutes, allowing the flavors to meld. Add 1 tablespoon jaggery (gur) or sugar for a sweet and sour taste.",
+      "Just before serving, turn off the heat. Pour the hot shaak into a serving bowl. Garnish generously with sev (crispy chickpea noodles) and fresh chopped coriander leaves.",
+      "Serve hot with rotis, parathas, or puri."
     ],
     "category": "Main Course",
     "ingredients": ["Tomatoes", "Sev", "Ginger-Garlic Paste", "Spices"],
@@ -126,12 +125,12 @@
     "name": "Doodhpak",
     "description": "A traditional sweet rice pudding cooked in milk, often flavored with saffron and dry fruits.",
     "instructions": [
-      "Wash **1/4 cup basmati rice** and soak it in water for 15-20 minutes. Drain and keep aside.",
-      "In a heavy-bottomed pan or kadhai, pour **1 liter full-fat milk**. Bring the milk to a boil on medium heat, stirring occasionally to prevent scorching.",
+      "Wash 1/4 cup basmati rice and soak it in water for 15-20 minutes. Drain and keep aside.",
+      "In a heavy-bottomed pan or kadhai, pour 1 liter full-fat milk. Bring the milk to a boil on medium heat, stirring occasionally to prevent scorching.",
       "Once the milk boils, reduce the flame to low. Add the drained rice to the milk. Continue to cook on low heat, stirring frequently, until the rice is completely cooked and tender (about 25-30 minutes). The milk will also start to thicken.",
-      "Once the rice is soft, add **1/2 cup sugar** (adjust to sweetness preference), **1/2 teaspoon cardamom powder**, and **a pinch of saffron strands** (soaked in 1 tablespoon warm milk). Stir well to combine.",
-      "Add **1/4 cup chopped mixed dry fruits** (almonds, pistachios, cashews, raisins). Continue to simmer for another 10-15 minutes, stirring, until the doodhpak reaches a thick, creamy consistency. It will thicken further upon cooling.",
-      "Remove from heat and let it cool down. Serve doodhpak warm or chilled. Garnish with additional **chopped dry fruits**."
+      "Once the rice is soft, add 1/2 cup sugar (adjust to sweetness preference), 1/2 teaspoon cardamom powder, and a pinch of saffron strands (soaked in 1 tablespoon warm milk). Stir well to combine.",
+      "Add 1/4 cup chopped mixed dry fruits (almonds, pistachios, cashews, raisins). Continue to simmer for another 10-15 minutes, stirring, until the doodhpak reaches a thick, creamy consistency. It will thicken further upon cooling.",
+      "Remove from heat and let it cool down. Serve doodhpak warm or chilled. Garnish with additional chopped dry fruits."
     ],
     "category": "Dessert",
     "ingredients": ["Milk", "Rice", "Sugar", "Saffron", "Dry Fruits"],
@@ -143,10 +142,10 @@
     "name": "Puri Bhaji",
     "description": "Deep-fried puffed bread served with a spiced potato curry.",
     "instructions": [
-      "For the Puri: In a large bowl, combine **2 cups whole wheat flour (atta)** with **1/2 teaspoon salt** and **1 tablespoon oil**. Mix well. Gradually add **water** (about 3/4 to 1 cup) and knead into a stiff, smooth dough. The dough should be firmer than chapati dough. Cover with a damp cloth and let it rest for 15-20 minutes.",
-      "For the Bhaji (Potato Curry): Boil **3-4 medium potatoes** until tender. Peel and cut them into medium-sized cubes. In a pan, heat **2 tablespoons oil**. Add **1 teaspoon mustard seeds** and **1 teaspoon cumin seeds**. Let them splutter. Add **a pinch of asafoetida (hing)**, **a few curry leaves**, and **2-3 slit green chilies**. Sauté for a minute.",
-      "Add **1 medium onion** (finely chopped, optional) and sauté until translucent. Add **1/2 teaspoon turmeric powder** and **salt to taste**. Add the boiled potato cubes and mix gently. Add about **1/2 cup water** to create a slight gravy. Simmer for 5-7 minutes. Garnish with fresh **chopped coriander leaves**.",
-      "To fry Puri: Heat **oil** for deep frying in a kadhai (wok) over medium-high heat. The oil should be hot enough but not smoking.",
+      "For the Puri: In a large bowl, combine 2 cups whole wheat flour (atta) with 1/2 teaspoon salt and 1 tablespoon oil. Mix well. Gradually add water (about 3/4 to 1 cup) and knead into a stiff, smooth dough. The dough should be firmer than chapati dough. Cover with a damp cloth and let it rest for 15-20 minutes.",
+      "For the Bhaji (Potato Curry): Boil 3-4 medium potatoes until tender. Peel and cut them into medium-sized cubes. In a pan, heat 2 tablespoons oil. Add 1 teaspoon mustard seeds and 1 teaspoon cumin seeds. Let them splutter. Add a pinch of asafoetida (hing), a few curry leaves, and 2-3 slit green chilies. Sauté for a minute.",
+      "Add 1 medium onion (finely chopped, optional) and sauté until translucent. Add 1/2 teaspoon turmeric powder and salt to taste. Add the boiled potato cubes and mix gently. Add about 1/2 cup water to create a slight gravy. Simmer for 5-7 minutes. Garnish with fresh chopped coriander leaves.",
+      "To fry Puri: Heat oil for deep frying in a kadhai (wok) over medium-high heat. The oil should be hot enough but not smoking.",
       "Divide the puri dough into small, equal portions. Lightly grease your rolling pin and surface. Roll out each portion into a small, thin circle (about 4-5 inches in diameter). Do not roll too thin or too thick.",
       "Carefully slide a rolled puri into the hot oil. Gently press down with a slotted spoon to help it puff up. Once it puffs, flip and fry on the other side until light golden brown and crispy. Remove with a slotted spoon and drain excess oil on absorbent paper.",
       "Serve hot puris immediately with the potato bhaji."
@@ -161,12 +160,12 @@
     "name": "Aamras",
     "description": "Sweet and smooth pulp made from ripe mangoes, a seasonal summer delight.",
     "instructions": [
-      "Choose **2-3 ripe, sweet mangoes** (Alphonso, Kesar, or Dasheri varieties are ideal for aamras). Wash them thoroughly.",
+      "Choose 2-3 ripe, sweet mangoes (Alphonso, Kesar, or Dasheri varieties are ideal for aamras). Wash them thoroughly.",
       "Peel the mangoes and chop the flesh into small pieces, discarding the seed.",
-      "Transfer the mango pieces to a blender or food processor. Add **2-3 tablespoons powdered sugar** (optional, adjust based on mango sweetness) and **1/4 cup chilled milk** or **water** if you prefer a thinner consistency. You can also add **1/4 teaspoon cardamom powder** for flavor (optional).",
+      "Transfer the mango pieces to a blender or food processor. Add 2-3 tablespoons powdered sugar (optional, adjust based on mango sweetness) and 1/4 cup chilled milk or water if you prefer a thinner consistency. You can also add 1/4 teaspoon cardamom powder for flavor (optional).",
       "Blend until smooth and creamy, without any lumps. If you prefer a coarser texture, you can skip blending entirely and mash with your hands or a potato masher.",
       "Transfer the aamras to a serving bowl. Chill in the refrigerator for at least 30 minutes to an hour before serving for the best taste.",
-      "Serve chilled, often with hot **puris** or as a standalone dessert."
+      "Serve chilled, often with hot puris or as a standalone dessert."
     ],
     "category": "Dessert",
     "ingredients": ["Ripe Mangoes", "Sugar (optional)", "Milk (optional)", "Cardamom (optional)"],
@@ -178,14 +177,14 @@
     "name": "Patra / Alu Vadi",
     "description": "Steamed and rolled colocasia leaves smeared with a spicy-sweet gram flour paste, then tempered.",
     "instructions": [
-      "Gather **10-12 medium-sized colocasia leaves (arbi ke patte)**. Wash them thoroughly and pat dry. Carefully remove the prominent veins from the back of the leaves using a knife, being careful not to tear the leaves. This makes them pliable.",
-      "For the paste: In a bowl, combine **1 cup chickpea flour (besan)**. Add **2 tablespoons tamarind pulp** (or a small lime-sized ball of tamarind soaked in water and mashed), **2 tablespoons jaggery (gur)** (grated or powdered), **1 tablespoon ginger-chili paste** (or finely chopped ginger and green chilies), **1 teaspoon turmeric powder**, **1.5 teaspoons red chili powder**, **1.5 teaspoons coriander powder**, **1 teaspoon cumin powder**, **1/2 teaspoon asafoetida (hing)**, **2 tablespoons oil**, and **salt to taste**. Add enough **water** (about 1/2 cup) to make a thick, smooth, spreadable paste. Ensure there are no lumps.",
+      "Gather 10-12 medium-sized colocasia leaves (arbi ke patte). Wash them thoroughly and pat dry. Carefully remove the prominent veins from the back of the leaves using a knife, being careful not to tear the leaves. This makes them pliable.",
+      "For the paste: In a bowl, combine 1 cup chickpea flour (besan). Add 2 tablespoons tamarind pulp (or a small lime-sized ball of tamarind soaked in water and mashed), 2 tablespoons jaggery (gur) (grated or powdered), 1 tablespoon ginger-chili paste (or finely chopped ginger and green chilies), 1 teaspoon turmeric powder, 1.5 teaspoons red chili powder, 1.5 teaspoons coriander powder, 1 teaspoon cumin powder, 1/2 teaspoon asafoetida (hing), 2 tablespoons oil, and salt to taste. Add enough water (about 1/2 cup) to make a thick, smooth, spreadable paste. Ensure there are no lumps.",
       "Lay one colocasia leaf flat on a clean surface, with the darker side facing down. Spread a thin, even layer of the prepared besan paste over the entire surface of the leaf. Place another leaf on top, facing the opposite direction (tip to base), and spread paste on it. Repeat with 3-4 leaves to create a stack.",
       "Fold the sides of the stacked leaves inwards (about 1-2 inches). Then, starting from the broad end, tightly roll the stack of leaves into a firm cylinder. Repeat for all leaves to form multiple rolls.",
       "Grease a steamer plate with oil. Place the prepared patra rolls on the plate. Steam for 20-25 minutes, or until the rolls are cooked through and firm. A knife inserted should come out clean. Let them cool completely.",
       "Once cooled, slice the steamed patra rolls into 1/2-inch thick discs.",
-      "For tempering: In a pan, heat **3 tablespoons oil**. Add **1 teaspoon mustard seeds** and **1 teaspoon sesame seeds**. Let them splutter. Add **a pinch of asafoetida** and **a few curry leaves**. Add the sliced patra pieces to the tempering and gently toss or shallow fry until they are lightly golden and slightly crispy on the outside.",
-      "Garnish with fresh **chopped coriander leaves** and **grated coconut** (optional). Serve hot with green chutney or as a snack."
+      "For tempering: In a pan, heat 3 tablespoons oil. Add 1 teaspoon mustard seeds and 1 teaspoon sesame seeds. Let them splutter. Add a pinch of asafoetida and a few curry leaves. Add the sliced patra pieces to the tempering and gently toss or shallow fry until they are lightly golden and slightly crispy on the outside.",
+      "Garnish with fresh chopped coriander leaves and grated coconut (optional). Serve hot with green chutney or as a snack."
     ],
     "category": "Snack",
     "ingredients": ["Colocasia Leaves", "Gram Flour", "Tamarind", "Jaggery", "Spices"],
@@ -197,11 +196,11 @@
     "name": "Masala Chaas",
     "description": "Spiced buttermilk, a cooling and digestive drink.",
     "instructions": [
-      "In a blender or a large bowl, combine **1 cup fresh, cold curd (yogurt)** and **2 cups chilled water**. Blend or whisk thoroughly until smooth and frothy, ensuring there are no lumps.",
-      "Add the following spices and herbs: **1/2 teaspoon roasted cumin powder**, **1/4 teaspoon black salt (kala namak)**, **salt to taste**, **1 tablespoon finely chopped fresh coriander leaves**, and **1/2 teaspoon finely chopped green chilies** (optional, adjust to spice preference).",
+      "In a blender or a large bowl, combine 1 cup fresh, cold curd (yogurt) and 2 cups chilled water. Blend or whisk thoroughly until smooth and frothy, ensuring there are no lumps.",
+      "Add the following spices and herbs: 1/2 teaspoon roasted cumin powder, 1/4 teaspoon black salt (kala namak), salt to taste, 1 tablespoon finely chopped fresh coriander leaves, and 1/2 teaspoon finely chopped green chilies (optional, adjust to spice preference).",
       "Blend or whisk again for a few seconds to combine all the ingredients.",
-      "Pour the masala chaas into serving glasses. You can add a few **ice cubes** if you prefer it extra chilled.",
-      "Garnish with a small sprig of **mint leaves** or a sprinkle of **cumin powder**. Serve immediately."
+      "Pour the masala chaas into serving glasses. You can add a few ice cubes if you prefer it extra chilled.",
+      "Garnish with a small sprig of mint leaves or a sprinkle of cumin powder. Serve immediately."
     ],
     "category": "Beverage",
     "ingredients": ["Curd", "Water", "Cumin Powder", "Black Salt", "Green Chili", "Coriander"],
@@ -220,7 +219,7 @@
       "Add 1/2 cup water (or more, for desired consistency) and mash the vegetables with a potato masher directly in the pan until smooth and well combined.",
       "Cook for another 5-7 minutes, stirring occasionally, until the bhaji thickens and flavors meld. Garnish with fresh chopped coriander leaves and a squeeze of lemon juice.",
       "For the Pav: Slit the pav horizontally, without cutting all the way through. Heat a tawa and apply butter generously on both sides of the pav.",
-      "Toast the pav on the tawa until golden brown and slightly crispy on both both sides.",
+      "Toast the pav on the tawa until golden brown and slightly crispy on both sides.",
       "Serve the hot bhaji with buttered pav, a wedge of lemon, and chopped onions."
     ],
     "category": "Main Course/Fast Food",
@@ -273,7 +272,7 @@
     "time": "1 hour 30 minutes (including marination)",
     "vegetarian": false,
     "image": "https://media.istockphoto.com/id/1479262112/photo/butter-chicken.jpg?s=612x612&w=0&k=20&c=m0XtnTX_x5ideVEWl0wi_hj9u4G2MifCahvXs0zi3Wg="
-   },
+  },
   {
     "name": "Chole Bhature",
     "description": "A popular North Indian dish, especially beloved in Punjab and Delhi, consisting of spicy chickpea curry (chole) served with deep-fried leavened bread (bhature).",
@@ -803,4 +802,3 @@
     "image": "https://media.istockphoto.com/id/1334115358/photo/cabbage-manchurian.jpg?s=612x612&w=0&k=20&c=lZvW1lWr03mQszDbx4v59IAnxWacQ_Ti275hjj18hcE="
   }
 ]
-}
