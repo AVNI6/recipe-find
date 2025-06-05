@@ -11,7 +11,7 @@ function RecipeList() {
   const [timeFilter, setTimeFilter] = useState('');
 
   useEffect(() => {
-    let url = `http://localhost:8000/recipes`;
+    let url = `https://recipe-find-2.onrender.com`;
     axios.get(url).then(res => {
       let data = res.data;
 
