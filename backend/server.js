@@ -6,7 +6,11 @@ const recipeRoutes = require('./routes/recipeRoutes');
 const mealPlannerRoutes = require('./routes/mealPlannerRoutes')
 dotenv.config();
 const app = express();
-app.use(cors());
+
+app.use(cors({
+    origin: 'https://recipe-find.onrender.com',
+    credentials: true 
+}));
 app.use(express.json());
 
 const PORT = process.env.PORT || 8000;
@@ -18,6 +22,10 @@ mongoose.connect(process.env.MONGO_URI, {
   console.log("MongoDB connected");
 }).catch((err) => {
   console.error("MongoDB connection error:", err);
+});
+
+app.get('/', (req, res) => {
+    res.send('Recipe Finder Backend API is running!');
 });
 
 app.use('/recipes', recipeRoutes);
