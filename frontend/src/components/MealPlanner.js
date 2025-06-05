@@ -17,14 +17,14 @@ function MealPlanner() {
   const [showNamePopup, setShowNamePopup] = useState(false);
 
   useEffect(() => {
-    axios.get('http://localhost:8000/recipes')
+    axios.get('https://recipe-find-2.onrender.com/recipes')
       .then(res => setRecipes(res.data))
       .catch(err => console.error('Failed to load recipes:', err));
   }, []);
 
   useEffect(() => {
     if (id) {
-      axios.get(`http://localhost:8000/api/mealplans/${id}`)
+      axios.get(`https://recipe-find-2.onrender.com/api/mealplans/${id}`)
         .then(res => {
           setPlanner(res.data.planner);
           setTitle(res.data.title);
@@ -65,11 +65,11 @@ function MealPlanner() {
     const payload = { title: title.trim(), planner };
 
     if (planId) {
-      axios.put(`http://localhost:8000/api/mealplans/${planId}`, payload)
+      axios.put(`https://recipe-find-2.onrender.com/api/mealplans/${planId}`, payload)
         .then(() => alert('✅ Meal plan updated!'))
         .catch(() => alert('❌ Failed to update meal plan.'));
     } else {
-      axios.post('http://localhost:8000/api/mealplans', payload)
+      axios.post('https://recipe-find-2.onrender.com/api/mealplans', payload)
         .then(() => alert('✅ Meal plan saved!'))
         .catch(() => alert('❌ Failed to save meal plan.'));
     }
@@ -86,7 +86,7 @@ function MealPlanner() {
 
     const payload = { title: tempTitle.trim(), planner };
 
-    axios.post('http://localhost:8000/api/mealplans', payload)
+    axios.post('https://recipe-find-2.onrender.com/api/mealplans', payload)
       .then(() => alert('✅ Meal plan saved!'))
       .catch(() => alert('❌ Failed to save meal plan.'));
   };
