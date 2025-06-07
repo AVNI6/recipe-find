@@ -103,7 +103,7 @@ function MealPlanner() {
         onChange={(e) => setTitle(e.target.value)}
         className="plan-title-input"
       />
-
+   <div className="table-wrapper">
       <table>
         <thead>
           <tr>
@@ -132,7 +132,7 @@ function MealPlanner() {
           ))}
         </tbody>
       </table>
-
+  </div>
       <button className="save-btn" onClick={handleSave}>💾 Save</button>
 
       {showNamePopup && (
