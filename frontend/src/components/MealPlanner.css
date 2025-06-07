@@ -20,6 +20,197 @@
   width: 100%;
   border-collapse: collapse;
   margin-top: 1rem;
+  overflow-x: auto;
+  display: block;
+}
+
+.meal-planner th {
+  background-color: #f0f4f8;
+}
+
+.meal-planner th,
+.meal-planner td {
+  padding: 12px;
+  text-align: center;
+  border: 1px solid #e0e0e0;
+}
+
+.meal-planner select {
+  padding: 8px 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  width: 100%;
+}
+
+.meal-planner button.generate {
+  margin-top: 20px;
+  display: block;
+  background-color: #3498db;
+  color: white;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.meal-planner button.generate:hover {
+  background-color: #2980b9;
+}
+
+.meal-planner .close-btn {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  font-size: 22px;
+  background: none;
+  border: none;
+  color: #888;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+
+.meal-planner .close-btn:hover {
+  color: #e74c3c;
+}
+
+.save-btn {
+  display: block;
+  margin: 30px auto 0;
+  padding: 12px 28px;
+  font-size: 1.1rem;
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.save-btn:hover {
+  background-color: #2980b9;
+}
+
+.confirm-popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+
+.confirm-box {
+  background-color: #fff;
+  padding: 2rem;
+  border-radius: 10px;
+  width: 320px;
+  text-align: center;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+}
+
+.confirm-box input {
+  width: 90%;
+  padding: 0.5rem;
+  margin-top: 1rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.popup-buttons {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: space-around;
+  gap: 10px;
+}
+
+.confirm-btn,
+.cancel-btn {
+  padding: 0.5rem 1.2rem;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  flex: 1;
+}
+
+.confirm-btn {
+  background-color: #27ae60;
+}
+
+.cancel-btn {
+  background-color: #7f8c8d;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .meal-planner {
+    padding: 1rem;
+    margin: 20px 10px;
+    font-size: 0.95rem;
+  }
+
+  .meal-planner h2 {
+    font-size: 1.6rem;
+  }
+
+  .meal-planner th,
+  .meal-planner td {
+    padding: 8px;
+    font-size: 0.85rem;
+  }
+
+  .save-btn {
+    font-size: 1rem;
+    padding: 10px 20px;
+  }
+
+  .confirm-box {
+    width: 90%;
+    padding: 1.5rem;
+  }
+
+  .popup-buttons {
+    flex-direction: column;
+  }
+
+  .popup-buttons button {
+    width: 100%;
+  }
+
+  .meal-planner select {
+    font-size: 0.9rem;
+    padding: 6px 8px;
+  }
+}
+
+/* .meal-planner {
+  max-width: 900px;
+  margin: 50px auto;
+  padding: 2rem;
+  background: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  position: relative;
+}
+
+.meal-planner h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 2rem;
+  color: #2c3e50;
+}
+
+.meal-planner table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
 }
 .meal-planner th{
   background-color:  #f0f4f8;
@@ -155,4 +346,4 @@
   .meal-planner th, .meal-planner td {
     padding: 10px;
   }
-}
+} */
